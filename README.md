@@ -1,6 +1,5 @@
-# udacity
-Udacity
+# Udacity
 
 TODO :
 
-Mindmap v0
+Mindmap v1
